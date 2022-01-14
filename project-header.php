@@ -29,7 +29,7 @@
               <li><a href="project-page.php">Nav Item</a></li>
               <li><a href="project-page.php">Nav Item</a></li>
               <li><a href="project-page.php">Nav Item</a></li>
-              <li><a class="button" href="project-item-browse.php">Search</a></li>
+              <li><input type="text" placeholder="Search"></li>
           </ul>
           <hr>
         </div>

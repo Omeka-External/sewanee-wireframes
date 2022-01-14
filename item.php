@@ -18,6 +18,8 @@
 </div>
 
 <div class="medium-2 medium-offset-1">
+    <h4>This item is from <a href="project.php">Project Site</a></h4>
+    <hr>
     <h3>Related Resources</h3>
     <a href="item.php"><img src="https://via.placeholder.com/700x700?text=IMAGE" alt=""></a>
     <hr>
